@@ -1,4 +1,4 @@
-# Steam Community Link Filter bypass, for profiles.
+# Steam Community Link Filter bypass by utilizing a Google Service Open Redirect vulnerability.
 As you may know, when you add a link to your steam profile, it usually shows the domain, so it looks like "test [snapchat.com]" <br />
 This might be annoying for people who wish to put links in a sentence, and it not showing up right after. <br />
 Now this might seem impossible to do, as they patched most of the redirect links, such as youtube.com/redirect and google's redirect. <br />
